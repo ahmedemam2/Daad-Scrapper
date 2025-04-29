@@ -45,7 +45,6 @@ with sync_playwright() as p:
         page.wait_for_selector("h2.c-result-header__title")
 
         number_of_programs = get_number_of_programs(page)
-        number_of_programs = 2
         if number_of_programs:
             print(f"Number of programs found: {number_of_programs}")
             json_data_url = f"https://www2.daad.de/deutschland/studienangebote/international-programmes/api/solr/en/search.json?cert=&admReq=&langExamPC=&scholarshipLC=&langExamLC=&scholarshipSC=&langExamSC=&fos=&langDeAvailable=&langEnAvailable=&fee=&sort=4&dur=&q={format_major(major)}&limit={number_of_programs}&offset=&display=list&isElearning=&isSep="
