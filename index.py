@@ -4,13 +4,17 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-major = input("Enter your desired major (e.g., Computer Science): ").strip()
+major = "Computer Science"
 
 print("Choose degree:")
 print("1 = Bachelor")
 print("2 = Master")
 print("3 = PhD")
 print("'' = All degrees")
+Bachelor = 1
+Master = 2
+PhD = 3
+All = ""
 degree_input = input("Enter the number corresponding to the degree: ").strip()
 All = ""
 format_major = lambda x: x.replace(" ", "%20")
@@ -29,7 +33,7 @@ def get_number_of_programs(page):
     return None  
 
 
-base_url = f"https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q={format_major(major)}&fos=&cert=&admReq=&langExamPC=&scholarshipLC=&langExamLC=&scholarshipSC=&langExamSC=&degree%5B%5D={degree_input}&langDeAvailable=&langEnAvailable=&lang%5B%5D=&modStd%5B%5D=&cit%5B%5D=&tyi%5B%5D=&ins%5B%5D=&fee=&bgn%5B%5D=&dat%5B%5D=&prep_subj%5B%5D=&prep_degree%5B%5D=&sort=4&dur=&subjects%5B%5D=&limit=10&offset=&display=list"
+base_url = f"https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q={format_major(major)}&fos=&cert=&admReq=&langExamPC=&scholarshipLC=&langExamLC=&scholarshipSC=&langExamSC=&degree%5B%5D={Master}&langDeAvailable=&langEnAvailable=&lang%5B%5D=&modStd%5B%5D=&cit%5B%5D=&tyi%5B%5D=&ins%5B%5D=&fee=&bgn%5B%5D=&dat%5B%5D=&prep_subj%5B%5D=&prep_degree%5B%5D=&sort=4&dur=&subjects%5B%5D=&limit=10&offset=&display=list"
 programs_list = []
 program_details = []
 
