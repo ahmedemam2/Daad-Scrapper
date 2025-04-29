@@ -3,6 +3,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 import csv
+import shutil
 
 major = "Computer Science"
 print("Choose degree:")
@@ -90,4 +91,6 @@ if program_details:
         dict_writer = csv.DictWriter(f, fieldnames=keys)
         dict_writer.writeheader()
         dict_writer.writerows(program_details)
+shutil.copy(filename, "output.csv")
+
     
