@@ -5,7 +5,6 @@ import requests
 import csv
 
 major = "Computer Science"
-
 print("Choose degree:")
 print("1 = Bachelor")
 print("2 = Master")
@@ -15,10 +14,8 @@ Bachelor = 1
 Master = 2
 PhD = 3
 All = ""
-degree_input = input("Enter the number corresponding to the degree: ").strip()
-All = ""
-format_major = lambda x: x.replace(" ", "%20")
 
+format_major = lambda x: x.replace(" ", "%20")
 
 def get_number_of_programs(page):
     html = page.content()
