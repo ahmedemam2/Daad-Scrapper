@@ -135,6 +135,7 @@ Program ID,University,degree,Funding Opportunities,link
 9691,SRH University,Computer Science – Cyber Security or Big Data & AI (MSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9691/
 7973,TU Bergakademie Freiberg,Mathematics for Data and Resource Sciences,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7973/
 4556,Leuphana University Lüneburg,Management & Data Science (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4556/
+5664,South Westphalia University of Applied Sciences,MA International Management & Information Systems – Online,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5664/
 3739,Saarland University,Master's Programme in Language Science and Technology (LST),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3739/
 8285,Kiel University of Applied Sciences,Data Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8285/
 7666,Rosenheim Technical University of Applied Sciences,Applied Artificial Intelligence,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7666/
@@ -144,12 +145,12 @@ Program ID,University,degree,Funding Opportunities,link
 4350,Universität Hamburg,MSc Intelligent Adaptive Systems (IAS),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4350/
 9740,Frankfurt School of Finance & Management,Bachelor's in Computational Business Analytics (BSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9740/
 7861,Hochschule München University of Applied Sciences,Photonics (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7861/
+8336,University of Siegen,Quantum Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8336/
 9858,University of Regensburg,Data Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9858/
 5253,University of Potsdam,Data Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5253/
-8336,University of Siegen,Quantum Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8336/
 4354,Technische Hochschule Köln (University of Applied Sciences),Communication Systems and Networks (MSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4354/
-6937,Heinrich Heine University Düsseldorf,Artificial Intelligence and Data Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6937/
 9973,University of Passau,BSc Artificial Intelligence,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9973/
+6937,Heinrich Heine University Düsseldorf,Artificial Intelligence and Data Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6937/
 4001,University of Augsburg,Master of Science in Software Engineering,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4001/
 3877,University of Münster,Geoinformatics and Spatial Data Science (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3877/
 4774,Offenburg University of Applied Sciences,MSc in Renewable Energy and Data Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4774/
@@ -178,12 +179,12 @@ Program ID,University,degree,Funding Opportunities,link
 4427,Otto von Guericke University Magdeburg,Digital Engineering (DigiEng),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4427/
 6114,Ulm University,Master of Science in Biophysics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6114/
 7758,Deutsches Elektronen-Synchrotron DESY,DASHH Data Science in Hamburg,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7758/
-3611,Osnabrück University,Cognitive Science (BSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3611/
+3614,Osnabrück University,Cognitive Science (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3614/
 8897,Bielefeld University,Informatics in the Natural Sciences,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8897/
 9130,Aalen University,Master of Science in Applied Photonics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9130/
 4653,Constructor University,MSc in Data Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4653/
 4415,Ludwig-Maximilians-Universität München,MSc Epidemiology,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4415/
-3614,Osnabrück University,Cognitive Science (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3614/
+3611,Osnabrück University,Cognitive Science (BSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3611/
 7017,Julius-Maximilians-Universität Würzburg,International Master of Science in Physics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7017/
 6892,Heidelberg University,Master of Science in Biomedical Engineering,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6892/
 4457,Carl von Ossietzky University of Oldenburg,Biomedical Engineering and Science of Hearing and Sensory Systems,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4457/
@@ -209,8 +210,8 @@ Program ID,University,degree,Funding Opportunities,link
 3750,Hamburg University of Technology,Mechatronics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3750/
 7742,Deggendorf Institute of Technology,BSc Artificial Intelligence,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7742/
 7712,Saarland University,Cybersecurity (BSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7712/
-9198,RWTH Aachen University,MSc in Applied Health Informatics & Digital Medicine,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9198/
 5704,Technical University of Munich,Bachelor's in Management & Data Science (BSc) – Heilbronn,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5704/
+9198,RWTH Aachen University,MSc in Applied Health Informatics & Digital Medicine,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9198/
 9225,Aschaffenburg University of Applied Sciences,Software Design International,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9225/
 3904,Frankfurt University of Applied Sciences,Information Technology (IT),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3904/
 3804,Frankfurt University of Applied Sciences,Urban Agglomerations (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3804/
@@ -371,12 +372,12 @@ Program ID,University,degree,Funding Opportunities,link
 4808,Technical University of Darmstadt,Materials Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4808/
 4434,University of Hohenheim,Master of Science in Economics with Data Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4434/
 3961,Technische Hochschule Köln (University of Applied Sciences),Automation & IT (MEng),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3961/
-3965,Technical University of Munich,Master of Science in Aerospace Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3965/
 5388,Technical University of Darmstadt,MSc Mathematics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5388/
 3914,University of Freiburg,MSc Microsystems Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3914/
 6401,Technical University of Munich,Science and Technology of Materials,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6401/
 9735,Technische Universität Braunschweig,Artificial Intelligence for Molecular Sciences,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9735/
 7036,Martin Luther University Halle-Wittenberg,Economics: Data Science and Policy,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7036/
+3965,Technical University of Munich,Master of Science in Aerospace Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3965/
 3605,Martin Luther University Halle-Wittenberg,Master of Science in Polymer Materials Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3605/
 3735,University of Freiburg,Forest Sciences,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3735/
 8423,University of Cologne,Master's in Business Analytics & Econometrics – MSc,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8423/
@@ -417,9 +418,9 @@ Program ID,University,degree,Funding Opportunities,link
 9156,University of Bayreuth,Polymer Science MSc,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9156/
 8406,Charité - Universitätsmedizin Berlin,Postgraduate Master of Science in Epidemiology,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8406/
 3661,Constructor University,"BSc in Mathematics, Modelling and Data Analytics",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3661/
-6323,Humboldt-Universität zu Berlin,Master of Science in Economics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6323/
-9813,Johannes Gutenberg University Mainz,Master of Science in Epidemiology,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9813/
 6100,Humboldt-Universität zu Berlin,Master of Science in Business Administration,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6100/
+9813,Johannes Gutenberg University Mainz,Master of Science in Epidemiology,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9813/
+6323,Humboldt-Universität zu Berlin,Master of Science in Economics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6323/
 6983,University of Münster,Master of Science in Geophysics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6983/
 4289,Kiel University,AgriGenomics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4289/
 4076,Universität Hamburg,Master of Science in Economics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4076/
@@ -555,17 +556,17 @@ Program ID,University,degree,Funding Opportunities,link
 3668,University of Göttingen,PAG – PhD Programme in Agricultural Science,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3668/
 8290,University of Bayreuth,Battery Materials and Technology,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8290/
 6884,University of Duisburg-Essen,Graduate School of Biomedical Science (BIOME),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6884/
-3828,Technical University of Munich,"Master of Science in Rail, Transport and Logistics",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3828/
 8581,University of Freiburg,MSc Medical Sciences – Cardiovascular Research,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8581/
+3828,Technical University of Munich,"Master of Science in Rail, Transport and Logistics",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3828/
 8266,Bielefeld University,Bielefeld Graduate School in Theoretical Sciences,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8266/
 3777,Technical University of Munich,Earth-Oriented Space Science and Technology (ESPACE),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3777/
 5240,Offenburg University of Applied Sciences,MSc in Biotechnology (MBT),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5240/
 6108,Julius-Maximilians-Universität Würzburg,"China Business and Economics, Master of Science",No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6108/
 6547,Technical University of Darmstadt,Graduate School Life Science Engineering,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6547/
+4506,Kiel University,MSc in Environmental and Resource Economics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4506/
 9730,Heidelberg University,Molecular Systems Science and Engineering (MSSE),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9730/
 7649,Hannover Medical School,PhD Programme in Biomedical Data Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7649/
 5307,University of Freiburg,Solar Energy Engineering MSc,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5307/
-4506,Kiel University,MSc in Environmental and Resource Economics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4506/
 4212,Rhine-Waal University of Applied Sciences,Sustainable Agriculture BSc,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4212/
 3788,University of Hohenheim,Agricultural Sciences in the Tropics and Subtropics,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3788/
 4883,Fulda University of Applied Sciences,Global Health,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4883/
@@ -600,18 +601,18 @@ Program ID,University,degree,Funding Opportunities,link
 9644,Ludwig-Maximilians-Universität München,PhD Medical Research – Cardiovascular Science,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9644/
 8985,Johannes Gutenberg University Mainz,Sport Science – Movement and Wellbeing (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8985/
 3593,Constructor University,BSc in Integrated Social and Cognitive Psychology,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3593/
+6893,Julius-Maximilians-Universität Würzburg,Master's in Biochemistry (Mol. Life Sciences or Mol. Oncology),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6893/
 4114,Kiel University,Master of Science in Climate Physics,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4114/
 4173,Technical University of Darmstadt,MSc Tropical Hydrogeology and Environmental Engineering (TropHEE),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4173/
-6893,Julius-Maximilians-Universität Würzburg,Master's in Biochemistry (Mol. Life Sciences or Mol. Oncology),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6893/
 8407,Humboldt-Universität zu Berlin,PhD Programme in Health Data Sciences,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8407/
 4777,Otto von Guericke University Magdeburg,Operations Research and Business Analytics (ORBA),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4777/
 7281,Magdeburg-Stendal University of Applied Sciences,"Sustainable Resources, Engineering and Management (StREaM)",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7281/
 4424,University of Konstanz,Graduate School of the Social and Behavioural Sciences (GSBS),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4424/
 4423,Universität Hamburg,Master of Science in Ocean and Climate Physics (MSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4423/
 5665,University of Potsdam,"Master of Science Ecology, Evolution, and Conservation (EEC)",No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5665/
+6931,Johannes Gutenberg University Mainz,Master of Science in International Economics and Public Policy,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6931/
 4742,Kiel University,Master of Science in Molecular Biology & Evolution (MAMBE),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4742/
 7680,University of Cologne,Master's in Sociology – Social and Economic Psychology (MSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7680/
-6931,Johannes Gutenberg University Mainz,Master of Science in International Economics and Public Policy,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6931/
 8955,Fulda University of Applied Sciences,Food Technology,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8955/
 4246,Kühne Logistics University,Master's in Global Logistics and Supply Chain Management,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4246/
 9729,Trier University,Sustainability Management and Economics (MSc),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9729/
@@ -660,6 +661,7 @@ Program ID,University,degree,Funding Opportunities,link
 4216,Rhine-Waal University of Applied Sciences,"International Relations, BA",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4216/
 9964,Weihenstephan-Triesdorf University of Applied Sciences,Resilient Horticulture,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9964/
 3687,Fulda University of Applied Sciences,International Food Business and Consumer Studies,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3687/
+4223,Rhine-Waal University of Applied Sciences,"Environment and Energy, BSc",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4223/
 9667,Hochschule Fresenius - University of Applied Sciences,Medical and Pharmaceutical Biotechnology (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9667/
 3799,Hochschule Bonn-Rhein-Sieg,Autonomous Systems (MSc),No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3799/
 9819,Technical University of Munich,Master of Science in Logistics Engineering and Management,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9819/
@@ -697,8 +699,8 @@ Program ID,University,degree,Funding Opportunities,link
 8450,Friedrich Schiller University Jena,Research School for Advanced Photon Science (RS-APS),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8450/
 9181,Freie Universität Berlin,"Science, Technology and Medicine in the Ancient World (STMAW)",Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9181/
 9922,Kempten University of Applied Sciences,International Engineering,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9922/
-9116,Johannes Gutenberg University Mainz,Master's Quantitative Decision Making in Economics and Management,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9116/
 4160,Universität Hamburg,Mathematical Modelling in Engineering (MATHMODS),Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4160/
+9116,Johannes Gutenberg University Mainz,Master's Quantitative Decision Making in Economics and Management,No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9116/
 4596,University of Bayreuth,"Centre for Cultural Studies, Social Sciences & Humanities",No,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4596/
 5444,University of Cologne,Double Master's Programme in Demography and Social Inequality MSc,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5444/
 5271,Ludwig-Maximilians-Universität München,Graduate School Life Science Munich,Yes,https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5271/
